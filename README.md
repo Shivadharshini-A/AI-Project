@@ -1,5 +1,5 @@
 
-# DecodeLabs Internship - Project 2
+# Project 2
 
 ## Data Classification Using Artificial Intelligence
 
@@ -54,6 +54,4 @@ the K-Nearest Neighbors (KNN) algorithm.
 The project generates a confusion matrix
 and displays classification performance.
 
-### Internship
-DecodeLabs - Artificial Intelligence
-Project 2 - Batch 2026
+
